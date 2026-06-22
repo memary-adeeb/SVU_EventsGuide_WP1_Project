@@ -1,1 +1,1 @@
-# SVU-Events-Guide---WP1-Project
+# SVU_EventsGuide_WP1_Project
